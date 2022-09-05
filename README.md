@@ -8,7 +8,7 @@ Desenvolvimento de uma ToDo list com as seguintes funcionalidades:
 2 - Adição de tarefa com a tecla Enter\
 3 - Input limpo após tarefa adicionada\
 4 - Não adicionar espaço em branco\
-5 - Função de deletar a tarefa\
+5 - Função de deletar a tarefa
 
 💻 Feito para Desktop e Mobile 📱🤳🏼
 
